@@ -49,3 +49,4 @@ D:\1014\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources
 D:\1014\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
 D:\1014\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\1014\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\1014\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
