@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             return View();
+            //return Content("<h1>hello world</h1>");
         }
     }
 }
