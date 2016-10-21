@@ -11,8 +11,8 @@ namespace WebApplication1.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
-            //return Content("<h1>hello world</h1>");
+            //return View();
+            return Content("<h1>hello world</h1>");
         }
     }
 }
