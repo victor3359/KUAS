@@ -1,7 +1,8 @@
-﻿
+﻿@using WebApplication1.Controllers;
+
+@model List<HomeController.AlbumWithCount>
 @{
     var id = ViewBag.ID;
-    var list = (List<WebApplication1.Models.Album>)ViewBag.ListDatas;
 }
 
 
@@ -13,33 +14,75 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Index</title>
+    <link href="~/Content/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" />
+
+
+
+
 </head>
 <body>
-    <div> 
-        <h1>hello world:@id</h1>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="collapsed navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-9" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="#" class="navbar-brand">Brand</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-9">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Link</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div>
+            <h1>My Album</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <table class="table table-bordered">
+                    <thead></thead>
+                    <tbody>
+                        <tr>
+                            <td>Genre </td>
+                            <td>Title </td>
+                            <td>Price </td>
+                            <td>ReadCount</td>
+                        </tr>
+                        @for (var i = 0; i < Model.Count; i++)
+                        {
+                            <tr>
+                                <td>@Model[i].Data.Genre</td>
+                                <td>@Model[i].Data.Title</td>
+                                <td>@Model[i].Data.Price</td>
+                                <td>@Model[i].ReadCount</td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                    <tfoot></tfoot>
+
+                </table>
+
+            </div>
+
+
+        </div>
     </div>
-    <table border="1">
-        <thead></thead>
-        <tbody>
-            <tr>
-                <td>Genre </td>
-                <td>Title </td>
-                <td>Price </td>
-            </tr>
-            @for (var i = 0; i < list.Count; i++)
-            {
-                <tr>
-                    <td>@list[i].Genre</td>
-                    <td>@list[i].Title</td>
-                    <td>@list[i].Price</td>
-                </tr>
-            }
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="~/Content/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 
-
-
-        </tbody>
-        <tfoot></tfoot>
-
-    </table>
 </body>
 </html>
