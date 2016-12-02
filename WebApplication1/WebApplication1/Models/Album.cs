@@ -10,6 +10,7 @@ namespace WebApplication1.Models
         public string ID { get; set; }
         public string Genre { get; set; }
         public string Title { get; set; }
-        public int Price { get; set; }
+        public decimal Price { get; set; }
+        public string ImageUrl { get; set; }
     }
 }

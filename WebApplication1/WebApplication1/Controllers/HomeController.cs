@@ -19,8 +19,12 @@ namespace WebApplication1.Controllers
         public ActionResult Index()
         {
             //ViewBag.ID = id;
-            Service.DataService data = new Service.DataService();
-            var list = data.LoadAllAlbum();
+            /// Service.DataService data = new Service.DataService();
+            /// var list = data.LoadAllAlbum();
+            /// 
+
+            Service.DatabaseService db = new Service.DatabaseService();
+            var list = db.LoadAllAlbum();
             return View(list);
         }
 

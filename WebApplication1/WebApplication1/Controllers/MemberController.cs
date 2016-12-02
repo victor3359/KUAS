@@ -40,7 +40,7 @@ namespace WebApplication1.Controllers
 
 
         // GET: Member
-        public ActionResult Index(string id)
+        public ActionResult MemberIndex(string id)
         {
             var items = new List<string>();
             items.Add("1");

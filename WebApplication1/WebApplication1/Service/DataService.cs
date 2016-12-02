@@ -19,6 +19,7 @@ namespace WebApplication1.Service
             item.Genre = "pop";
             item.Title = "The Best Of The Men At Work";
             item.Price = 8;
+            item.ImageUrl = @"/Content/Image/Desert.jpg";
 
             list.Add(item);
 
@@ -27,7 +28,9 @@ namespace WebApplication1.Service
             item2.Genre = "Metal";
             item2.Title = "Black Light Syndrome";
             item2.Price = 20;
+            item2.ImageUrl = @"/Content/Image/Desert.jpg";
             list.Add(item2);
+
 
         }
         public DataService()
