@@ -43,7 +43,7 @@ namespace WebApplication1.Service
             var command = new System.Data.SqlClient.SqlCommand("", connection);
             command.CommandText = string.Format(@"
 INSERT        INTO    Album(ID, Genre, Title, Price, ImageUrl)
-VALUES          ({0},'{1}','{2}',{3},'{4}')
+VALUES          ('{0}','{1}','{2}',{3},'{4}')
 ", newAlbum.ID, newAlbum.Genre, newAlbum.Title, newAlbum.Price, newAlbum.ImageUrl);
 
             command.ExecuteNonQuery();
