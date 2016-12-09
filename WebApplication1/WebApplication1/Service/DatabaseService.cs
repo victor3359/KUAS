@@ -8,8 +8,6 @@ namespace WebApplication1.Service
     public class DatabaseService
     {
 
-
-
         public List<Models.Album> LoadAllAlbum()
         {
             List<Models.Album> result = new List<Models.Album>();
@@ -30,11 +28,28 @@ namespace WebApplication1.Service
                 item.Genre = reader["Genre"].ToString();
                 item.Price = (decimal)reader["Price"];
                 item.Title = reader["Title"].ToString();
-                item.ImageUrl= reader["ImageUrl"].ToString();
+                item.ImageUrl = reader["ImageUrl"].ToString();
                 result.Add(item);
             }
             connection.Close();
             return result;
+        }
+        public void CreateAlbum(Models.Album newAlbum)
+        {
+            var connection = new System.Data.SqlClient.SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Github\WebApplication1\WebApplication1\App_Data\Database1.mdf;Integrated Security=True");
+            connection.Open();
+
+
+            var command = new System.Data.SqlClient.SqlCommand("", connection);
+            command.CommandText = string.Format(@"
+INSERT        INTO    Album(ID, Genre, Title, Price, ImageUrl)
+VALUES          ({0},'{1}','{2}',{3},'{4}')
+", newAlbum.ID, newAlbum.Genre, newAlbum.Title, newAlbum.Price, newAlbum.ImageUrl);
+
+            command.ExecuteNonQuery();
+            
+
+            connection.Close();
         }
     }
 }

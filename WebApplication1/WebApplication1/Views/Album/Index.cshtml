@@ -1,0 +1,51 @@
+﻿@model List<WebApplication1.Models.Album>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="container">
+    <div>
+        <h1>My Album</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-bordered">
+                <thead></thead>
+                <tbody>
+                    <tr>
+                        <td>ID</td>
+                        <td>Genre </td>
+                        <td>Title </td>
+                        <td>Price </td>
+                        <td>Link</td>
+
+                    </tr>
+                    @for (var i = 0; i < Model.Count; i++)
+                    {
+                        <tr>
+                            <td>@Model[i].ID</td>
+                            <td>@Model[i].Genre</td>
+                            <td>@Model[i].Title</td>
+                            <td>@Model[i].Price</td>
+                            <td>
+                                <img class="img-responsive" src="@Model[i].ImageUrl" />
+                                <a href="/Home/Detail/@Model[i].ID">Link</a>
+                            </td>
+                        </tr>
+                    }
+
+
+
+                </tbody>
+                <tfoot></tfoot>
+
+            </table>
+
+        </div>
+
+
+    </div>
+</div>
+
