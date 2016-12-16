@@ -14,10 +14,9 @@ namespace WebApplication1.Service
 
             var connection = new System.Data.SqlClient.SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Github\WebApplication1\WebApplication1\App_Data\Database1.mdf;Integrated Security=True");
             connection.Open();
-
-
             var command = new System.Data.SqlClient.SqlCommand("", connection);
-            command.CommandText = "Select * from Album";
+            command.CommandText = @"
+Select * from Album";
             var reader = command.ExecuteReader();
 
             while (reader.Read())
