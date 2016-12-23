@@ -12,7 +12,8 @@ namespace WebApplication1.Service
         {
             List<Models.Album> result = new List<Models.Album>();
 
-            var connection = new System.Data.SqlClient.SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Github\WebApplication1\WebApplication1\App_Data\Database1.mdf;Integrated Security=True");
+            var connection = new System.Data.SqlClient.SqlConnection(@"
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\GitHub\WebApplication1\WebApplication1\App_Data\Database1.mdf;Integrated Security=True");
             connection.Open();
             var command = new System.Data.SqlClient.SqlCommand("", connection);
             command.CommandText = @"
