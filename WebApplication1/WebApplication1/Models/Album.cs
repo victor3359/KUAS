@@ -13,4 +13,12 @@ namespace WebApplication1.Models
         public decimal Price { get; set; }
         public string ImageUrl { get; set; }
     }
+    public class Albums
+    {
+        public int AlbumID { get; set; }
+        public int GenreId { get; set; }
+        public string Title { get; set; }
+        public decimal Price { get; set; }
+        public string AlbumArtUrl { get; set; }
+    }
 }

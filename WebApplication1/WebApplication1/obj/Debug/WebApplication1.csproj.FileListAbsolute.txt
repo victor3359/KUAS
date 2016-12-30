@@ -256,4 +256,3 @@ D:\Github\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Helpers.resourc
 D:\Github\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
 D:\Github\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Github\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
-D:\Github\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
