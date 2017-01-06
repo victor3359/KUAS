@@ -7,6 +7,7 @@ namespace WebApplication1.Models
         public int GenreId { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        
+
+        public virtual List<Models.Album> Albums { get; set; }
     }
 }

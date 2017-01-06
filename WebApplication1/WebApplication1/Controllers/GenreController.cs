@@ -27,5 +27,33 @@ namespace WebApplication1.Controllers
             return  View(result);
         }
 
+
+
+
+        public ActionResult EFIndex(int? genreID)
+        {
+            List<Models.Album> result = new List<Models.Album>();
+            Service.EFService efDb = new Service.EFService();
+
+            var genres = efDb.Genres.ToList();
+
+            ViewBag.Genres = genres;
+            ViewBag.SelectedGenreID = genreID;
+
+
+            var selectedGenre = genres.SingleOrDefault(x => x.GenreId == genreID);
+
+            //selectedGenre = efDb.Genres.Where(x => x.GenreId == genreID).SingleOrDefault();
+
+
+            if (selectedGenre != null)
+            {
+                result = selectedGenre.Albums.ToList();
+
+
+            }
+            return View(result);
+        }
+
     }
 }

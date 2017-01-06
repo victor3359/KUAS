@@ -39,7 +39,7 @@ namespace WebApplication1.Controllers
 
                 File.SaveAs(SaveDir);
 
-                newAlbum.ImageUrl = this.Url.Content(System.IO.Path.Combine(dir, File.FileName));
+               // newAlbum.ImageUrl = this.Url.Content(System.IO.Path.Combine(dir, File.FileName));
 
                 //System.Drawing.Image image = System.Drawing.Image.FromStream(File.InputStream);
 
@@ -48,7 +48,7 @@ namespace WebApplication1.Controllers
 
 
             Service.DatabaseService db = new Service.DatabaseService();
-            newAlbum.ID = Guid.NewGuid().ToString();
+          //  newAlbum.ID = Guid.NewGuid().ToString();
             db.CreateAlbum(newAlbum);
             return RedirectToAction("Index");
         }

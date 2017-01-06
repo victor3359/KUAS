@@ -19,12 +19,12 @@ namespace WebApplication1.Controllers
             return View(list);
         }
 
-        public ActionResult Detail(string id)
+        public ActionResult Detail(int id)
         {
             Models.Album item = null;
             Service.DataService data = new Service.DataService();
             var list = data.LoadAllAlbum();
-            item = list.SingleOrDefault(x => x.ID == id);
+            item = list.SingleOrDefault(x => x.AlbumId == id);
             return View(item);
         }
 

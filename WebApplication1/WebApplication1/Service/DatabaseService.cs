@@ -24,11 +24,11 @@ Select * from Album";
             {
                 Models.Album item = new Models.Album();
 
-                item.ID = reader["ID"].ToString();
-                item.Genre = reader["Genre"].ToString();
-                item.Price = (decimal)reader["Price"];
-                item.Title = reader["Title"].ToString();
-                item.ImageUrl = reader["ImageUrl"].ToString();
+                //item.ID = reader["ID"].ToString();
+                //item.Genre = reader["Genre"].ToString();
+                //item.Price = (decimal)reader["Price"];
+                //item.Title = reader["Title"].ToString();
+                //item.ImageUrl = reader["ImageUrl"].ToString();
                 result.Add(item);
             }
             connection.Close();
@@ -52,11 +52,11 @@ Where ID='{0}'", id);
             {
                 Models.Album item = new Models.Album();
 
-                item.ID = reader["ID"].ToString();
-                item.Genre = reader["Genre"].ToString();
-                item.Price = (decimal)reader["Price"];
-                item.Title = reader["Title"].ToString();
-                item.ImageUrl = reader["ImageUrl"].ToString();
+                //item.ID = reader["ID"].ToString();
+                //item.Genre = reader["Genre"].ToString();
+                //item.Price = (decimal)reader["Price"];
+                //item.Title = reader["Title"].ToString();
+                //item.ImageUrl = reader["ImageUrl"].ToString();
                 result = item;
             }
             connection.Close();
@@ -72,7 +72,7 @@ Where ID='{0}'", id);
             command.CommandText = string.Format(@"
 INSERT        INTO    Album(ID, Genre, Title, Price, ImageUrl)
 VALUES          ('{0}','{1}','{2}',{3},'{4}')
-", newAlbum.ID, newAlbum.Genre, newAlbum.Title, newAlbum.Price, newAlbum.ImageUrl);
+", newAlbum.AlbumId, newAlbum.Genre, newAlbum.Title, newAlbum.Price, newAlbum.ImageUrl);
 
             command.ExecuteNonQuery();
             
@@ -104,7 +104,7 @@ Where ID='{0}'
 UPDATE          Album
 SET             Genre='{1}',Title='{2}',Price={3},ImageUrl='{4}'
 Where           ID='{0}'
-", updateAlbum.ID, updateAlbum.Genre, updateAlbum.Title, updateAlbum.Price, updateAlbum.ImageUrl);
+", updateAlbum.AlbumId, updateAlbum.Genre, updateAlbum.Title, updateAlbum.Price, updateAlbum.ImageUrl);
             command.ExecuteNonQuery();
             connection.Close();
         }

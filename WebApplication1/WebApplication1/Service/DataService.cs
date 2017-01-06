@@ -15,21 +15,21 @@ namespace WebApplication1.Service
         {
             var item = new Models.Album();
 
-            item.ID = "1";
-            item.Genre = "pop";
-            item.Title = "The Best Of The Men At Work";
-            item.Price = 8;
-            item.ImageUrl = @"/Content/Image/Desert.jpg";
+            //item.ID = "1";
+            //item.Genre = "pop";
+            //item.Title = "The Best Of The Men At Work";
+            //item.Price = 8;
+            //item.ImageUrl = @"/Content/Image/Desert.jpg";
 
-            list.Add(item);
+            //list.Add(item);
 
-            var item2 = new Models.Album();
-            item2.ID = "2";
-            item2.Genre = "Metal";
-            item2.Title = "Black Light Syndrome";
-            item2.Price = 20;
-            item2.ImageUrl = @"/Content/Image/Desert.jpg";
-            list.Add(item2);
+            //var item2 = new Models.Album();
+            //item2.ID = "2";
+            //item2.Genre = "Metal";
+            //item2.Title = "Black Light Syndrome";
+            //item2.Price = 20;
+            //item2.ImageUrl = @"/Content/Image/Desert.jpg";
+            //list.Add(item2);
 
 
         }
