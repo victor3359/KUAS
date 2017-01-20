@@ -1,45 +1,17 @@
-﻿
+﻿@model List<WebApplication1.Models.Album>
 @{
-    var id = ViewBag.ID;
-    var list = (List<WebApplication1.Models.Album>)ViewBag.ListDatas;
+    ViewBag.Title = "Home";
 }
 
 
-
-
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-</head>
-<body>
-    <div> 
-        <h1>hello world:@id</h1>
+<div class="row">
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Group 12</h1>
+            <p>ASP.Net Final Work</p>
+            <p>
+                <a class="btn btn-primary btn-lg" href="/Album" role="button">Learn more »</a>
+            </p>
+        </div>
     </div>
-    <table border="1">
-        <thead></thead>
-        <tbody>
-            <tr>
-                <td>Genre </td>
-                <td>Title </td>
-                <td>Price </td>
-            </tr>
-            @for (var i = 0; i < list.Count; i++)
-            {
-                <tr>
-                    <td>@list[i].Genre</td>
-                    <td>@list[i].Title</td>
-                    <td>@list[i].Price</td>
-                </tr>
-            }
-
-
-
-        </tbody>
-        <tfoot></tfoot>
-
-    </table>
-</body>
-</html>
+</div>

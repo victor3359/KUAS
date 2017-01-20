@@ -1,0 +1,59 @@
+﻿@model List<WebApplication1.Models.Album>
+@{
+    ViewBag.Title = "Album";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-10">
+            <h1>Album</h1>
+        </div>
+
+        <div class="col-md-2">
+            <a class="btn btn-success  btn-block btn-lg" style="margin-top:15px;" href="~/Album/Create">Create</a>
+        </div>
+        <div class="col-md-12">
+            <hr>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-bordered">
+                <thead></thead>
+                <tbody>
+                    <tr>
+                        <td>ID</td>
+                        <td>Genre </td>
+                        <td>Title </td>
+                        <td>Price </td>
+                        <td></td>
+
+                    </tr>
+                    @for (var i = 0; i < Model.Count; i++)
+                    {
+                        <tr>
+                            <td>@Model[i].ID</td>
+                            <td>@Model[i].Genre</td>
+                            <td>@Model[i].Title</td>
+                            <td>@Model[i].Price</td>
+                            <td>
+                                <a class="btn btn-primary btn-sm" href="~/Album/Update/@Model[i].ID">Edit</a>
+                                <a class="btn btn-danger btn-sm" href="~/Album/Delete/@Model[i].ID">Delete</a>
+                            </td>
+                        </tr>
+                    }
+
+
+
+                </tbody>
+                <tfoot></tfoot>
+
+            </table>
+
+        </div>
+
+
+    </div>
+</div>
+

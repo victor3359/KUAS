@@ -1,0 +1,540 @@
+------------------
+System Information
+------------------
+Serial Number:                9S716J514059ZFA000059
+Product Name:                 PE60 6QE
+OS:                           Microsoft Windows 10 家用版 64 位元
+Windows Product Key:          2GYK4
+HDI Build:                    ZS7-1795TM4-CZ1   3.TC0.A8.8.0.1  
+BIOS Version:                 E16J5IMS.106
+BIOS Release Date:            2015/09/04
+EC Version:                   16J5EMS2.1020903201515:48:47
+CPU:                          Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+Memory:                       8192 MB @ 1066 MHz
+                               - 8192 MB, DDR3-2133, Samsung M471A1G43DB0-CPB    
+Graphics:                     NVIDIA GeForce GTX 960M, 2048 MB
+Graphics:                     Intel(R) HD Graphics 530, 1024 MB
+VBIOS Version:                82.07.88.00.07
+Drive:                        SSD, SanDisk SD8SNAT128G1122, 119.24 GB
+Drive:                        HDD, HGST HTS721010A9E630, 931.51 GB
+Network:                      Intel(R) Dual Band Wireless-AC 3165
+Network:                      Qualcomm Atheros AR8161 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+Network:                      VirtualBox Host-Only Ethernet Adapter
+Network:                      VirtualBox Host-Only Ethernet Adapter
+
+---------------------
+Programs and Features
+---------------------
+LINE , 4.10.1.1256
+Mozilla Firefox 50.1.0 (x86 zh-TW) , 50.1.0
+Python 3.5.1 (32-bit) , 3.5.1150.0
+Windows 驅動程式封裝 - Altera (WinUSB) JTAG cables  (02/11/2014,2014.02.11 ) , 02/11/2014,2014.02.11 
+7-Zip 16.02 (x64) , 16.02
+Android Studio , 1.0
+KB9X Radio Switch Driver , 1.1.2.0
+Git version 2.10.2 , 2.10.2
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) 語言套件 - 繁體中文 , 10.0.50903
+NetBeans IDE 8.1 , 8.1
+Microsoft Office 專業版 2016 - zh-tw , 16.0.7571.2075
+Synaptics Pointing Device Driver , 19.0.6.1
+Vulkan Run Time Libraries 1.0.11.1 , 1.0.11.1
+Vulkan Run Time Libraries 1.0.3.0 , 1.0.3.0
+WinRAR 5.20 (64 位元) , 5.20.0
+Microsoft SQL Server 2014 Transact-SQL ScriptDom  , 12.0.2000.8
+Microsoft System CLR Types for SQL Server 2012 (x64) , 11.1.3366.16
+CheckDevicesConfigurator , 1.2.701
+Visual Studio 2013 Prerequisites , 12.0.21005
+IIS 10.0 Express , 10.0.1736
+Visual Studio 2013 Prerequisites - ENU Language Pack , 12.0.21005
+paint.net , 4.0.5
+Windows App Certification Kit Native Components , 8.100.26629
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 , 10.0.40219
+Microsoft SQL Server 2014 Management Objects  (x64) , 12.0.2000.8
+Intel(R) Rapid Storage Technology , 14.5.0.1081
+Microsoft SQL Server 2016 Management Objects  (x64) , 13.0.1601.5
+Windows Phone 8.1 SDK - x64 , 8.1.15116
+Java 8 Update 111 (64-bit) , 8.0.1110.14
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64 , 14.0.25431
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610 , 11.0.60610
+Intel® Hardware Accelerated Execution Manager , 6.0.1
+Active Directory Authentication Library for SQL Server , 13.0.1601.5
+Microsoft Build Tools Language Resources 14.0 (amd64) , 14.0.25420
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022 , 9.0.21022
+Microsoft Visual Studio 2015 Performance Collection Tools - ENU , 14.0.23107
+Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.24215 , 14.0.24215
+Microsoft SQL Server 2012 Management Objects  (x64) , 11.1.3000.0
+Microsoft SQL Server System CLR Types (x64) , 10.50.1600.1
+Microsoft Visual Studio 2013 Performance Collection Tools - ENU , 12.0.21005
+iCloud , 6.1.0.30
+Intel(R) PRO/Wireless Driver , 18.12.0000.3040
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding (x64) , 14.98.25331
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - CHT , 10.0.50903
+Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24215 , 14.0.24215
+Windows Software Development Kit DirectX x64 Remote , 8.100.25984
+Microsoft SQL Server 2012 Transact-SQL ScriptDom  , 11.1.3000.0
+ProductDaemonSetup , 1.2.701
+Intel(R) Chipset Device Software , 10.1.1.9
+Intel(R) ME UninstallLegacy , 1.0.1.0
+Apple Mobile Device Support , 10.0.1.3
+Bonjour , 3.1.0.1
+Python 3.4.4 (64-bit) , 3.4.4150
+Microsoft SQL Server 2012 Command Line Utilities  , 11.1.3000.0
+Microsoft Visual Studio 2015 VsGraphics Helper Dependencies , 14.0.23107
+Microsoft Visual Studio Team Foundation Server 2015 Office Integration Language Pack (x64) - ENU , 14.0.23102
+Intel(R) Management Engine Components , 1.0.0.0
+Microsoft Team Foundation Server 2013 Update 5 Object Model Language Pack (x64) - ENU , 12.0.40629
+Visual C++ IDE x64 Package , 14.0.25420
+Microsoft Visual Studio 2015 Diagnostic Tools - amd64 , 14.0.23107
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration (x64) , 14.98.25331
+Java SE Development Kit 7 Update 79 (64-bit) , 1.7.0.790
+Java SE Development Kit 8 Update 91 (64-bit) , 8.0.910.14
+Apple 應用程式支援 (64 位元) , 5.2
+Oracle VM VirtualBox 5.1.8 , 5.1.8
+Microsoft SQL Server 2012 Express LocalDB  , 11.1.3000.0
+Genymotion version 2.5.3 , 2.5.3
+Microsoft Visual Studio 2013 Performance Collection Tools , 12.0.21005
+Microsoft Visual Studio Team Foundation Server 2015 Storyboarding Language Pack (x64) - ENU , 14.0.23102
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610 , 11.0.60610
+Microsoft Visual Studio 2013 Diagnostic Tools - amd64 , 12.0.31101
+Microsoft SQL Server Compact 4.0 SP1 x64 ENU , 4.0.8876.1
+Microsoft Build Tools 14.0 (amd64) , 14.0.25420
+NahimicSettingsConfigurator , 1.2.701
+Intel® Trusted Connect Service Client , 1.42.17.0
+iTunes , 12.5.4.42
+Visual Studio 2015 Prerequisites - ENU Language Pack , 14.0.23107
+Office 16 Click-to-Run Licensing Component , 16.0.7571.2075
+Office 16 Click-to-Run Extensibility Component , 16.0.7571.2075
+Office 16 Click-to-Run Localization Component , 16.0.7571.2075
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 , 12.0.21005
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) , 10.0.50908
+Microsoft Web Deploy 3.6 , 3.1238.1962
+Microsoft Visual C++ 2013  x64 Designtime - 12.0.21005 , 12.0.21005
+Microsoft System CLR Types for SQL Server 2016 , 13.0.1601.5
+Windows Software Development Kit for Windows Store Apps DirectX x64 Remote , 8.100.26936
+Windows XP Targeting with C++ , 11.0.51106
+Visual Studio 2013 Prerequisites - CHT Language Pack , 12.0.21005
+Microsoft SQL Server 2012 Data-Tier App Framework  (x64) , 11.1.2902.0
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 , 12.0.21005
+Microsoft Visual C++ 2012 x64 Debug Runtime - 11.0.60610 , 11.0.60610
+Microsoft SQL Server 2014 Express LocalDB  , 12.0.2000.8
+Build Tools Language Resources - amd64 , 12.0.40629
+Ansel , 372.54
+NVIDIA 控制面板 372.54 , 372.54
+NVIDIA 圖形驅動程式 372.54 , 372.54
+NVIDIA Optimus Update 2.11.4.0 , 2.11.4.0
+NVIDIA PhysX 系統軟體 9.16.0318 , 9.16.0318
+NVIDIA 更新程式 2.11.4.0 , 2.11.4.0
+SHIELD Streaming , 7.1.0280
+NVIDIA Install Application , 2.1002.216.1918
+NVIDIA Network Service , 2.4
+SHIELD Wireless Controller Driver , 2.11.4.0
+NVIDIA Update Core , 2.11.4.0
+NVIDIA Virtual Audio 1.2.40 , 1.2.40
+MSI True Color , 1.3.519
+LauncherSetup , 1.2.701
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding Language Pack (x64) - ENU , 14.98.25331
+Microsoft Team Foundation Server 2013 Update 5 Object Model (x64) , 12.0.40629
+Microsoft Visual C++ 2013 x64 Debug Runtime - 12.0.21005 , 12.0.21005
+Microsoft .NET Version Manager (x64) 1.0.0-beta5 , 1.0.10609.0
+Intel® PROSet/Wireless WiFi Software , 18.12.0.0687
+WinZip 17.5 , 17.5.10562
+Microsoft Visual Studio 2013 效能收集工具 - 繁體中文 , 12.0.21005
+UIInstallUpgrade , 1.2.701
+Microsoft SQL Server 2016 T-SQL ScriptDom  , 13.0.1601.5
+Microsoft SQL Server 2012 Native Client  , 11.1.3000.0
+SCM , 13.015.07154
+Build Tools - amd64 , 12.0.40629
+Visual Studio 2015 Prerequisites , 14.0.23107
+AudioFXSetup , 1.2.701
+Microsoft SQL Server 2016 LocalDB  , 13.0.1601.5
+Microsoft SQL Server Compact 4.0 SP1 x64 CHT , 4.0.8876.1
+Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.24215 , 14.0.24215
+Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration Language Pack (x64) - ENU , 14.98.25331
+Microsoft Visual Studio 2013 VsGraphics Helper Dependencies , 12.0.21005
+Microsoft System CLR Types for SQL Server 2014 , 12.0.2402.29
+Microsoft Visual Studio 2015 Performance Collection Tools , 14.0.23107
+Adobe Flash Player 21 NPAPI , 21.0.0.242
+BitComet(比特彗星) 1.40 64-bit , 1.40
+Dropbox , 16.4.30
+Google Chrome , 55.0.2883.87
+Garena+ , 2011
+Shortcut Manager , 1.0.1508.1001
+MSI Remind Manager , 1.0.1508.1001
+Battery Calibration , 1.0.1508.1001
+Help Desk , 1.0.1509.0301
+BurnRecovery , 5.0.1509.201
+CyberLink PowerDVD 12 , 12.0.5307.55
+Sizing Options , 2.0.1508.1001
+IntelliJ IDEA Community Edition 15.0.2 , 143.1184.17
+KKBOX , 6.2.0.580
+Garena 英雄聯盟（台灣） , 20160819
+ModelSim-Altera Edition 15.1.0.185 , 15.1
+ModelSim-Altera Starter Edition 13.1.0.162 , 13.1
+ModelSim-Altera Starter Edition 15.1.0.185 , 15.1
+ModelSim-Altera Starter Edition 15.1.0.185 (Copy 2) , 15.1
+Mozilla Firefox 43.0.2 (x86 zh-TW) , 43.0.2
+Mozilla Maintenance Service , 43.0.2
+Notepad++ , 6.9.1
+PCMan Novus , Novus
+JetBrains PhpStorm 2016.2 , 162.1121.38
+Quartus II Web Edition (Free) 13.1.0.162 , 13.1
+Quartus Prime Lite Edition (Free) 15.1.0.185 , 15.1
+Steam , 2.10.91.91
+Unity , 5.4.2f1
+Microsoft Visual Studio 2015 Team Explorer Language Pack - ENU , 14.0.23102
+Visual C++ Library PGO X86 Package , 14.0.24210
+Microsoft Visual Studio 2015 Shell (Minimum) , 14.0.23107
+Microsoft .NET Framework 4.6 Targeting Pack (ENU) , 4.6.00127
+Microsoft Help Viewer 2.1 , 2.1.21005
+Microsoft SQL Server 2012 T-SQL Language Service  , 11.1.3000.0
+Microsoft NuGet - Visual Studio 2013 , 2.8.60610.756
+Windows Runtime Intellisense Content - en-us , 8.100.25984
+Visual F# 3.1 SDK , 12.0.21005
+Microsoft System CLR Types for SQL Server 2012 , 11.1.3366.16
+Microsoft ASP.NET Web Pages 2 Runtime - CHT , 2.0.20716.0
+Dropbox Update Helper , 1.3.59.1
+Microsoft Portable Library Multi-Targeting Pack , 14.0.25431.01
+WCF Data Services Tools for Microsoft Visual Studio 2015 , 5.6.62175.4
+SourceTree , 1.9.9.20
+PowerShellIntegration.Notifications , 2.6.0.0
+Microsoft Visual C++  x64 Libraries , 12.0.21005
+Blend for Visual Studio SDK for Silverlight 5 , 3.0.40218.0
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - ENU , 14.0.25420
+TypeScript Tools for Microsoft Visual Studio 2013 , 1.0.5.0
+Application Insights Tools for Visual Studio 2015 , 7.0.20622.1
+Microsoft SQL Server 2016 Management Objects  , 13.0.1601.5
+Visual C++ IDE Core Professional Plus Resource Package , 14.0.25420
+Microsoft Azure Mobile Services Connected Service , 14.0.25420
+MSBuild/NuGet Integration 14.0 (x86) , 14.0.25420
+Visual Studio 2012 Verification SDK - enu , 12.0.30501
+Multi-Device Hybrid Apps using C# - Templates - ENU , 14.0.23107
+Python Tools Redirection Template , 1.3
+UpdateAssistant , 1.1.0.0
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 , 12.0.21005
+Microsoft VisualStudio JavaScript Project System , 14.0.25527
+Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies , 14.0.25420
+ Tools for .Net 3.5 , 3.11.50727
+Microsoft Visual Studio 2015 Devenv Resources , 14.0.23107
+Visual Studio 2013 Update 5 (KB2829760) , 12.0.40629
+Python 3.5.1 Launcher (32-bit) , 3.5.150.0
+Nahimic for MSI , 1.2.7
+Microsoft Visual C++ 2013 32bit Compilers - CHT Resources , 12.0.21005
+Microsoft Visual C++ 2012 Compilers - ENU Resources , 11.0.60610
+Microsoft .NET Framework 4.5.1 SDK , 4.5.51641
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack , 4.5.51651
+Microsoft SQL Server 2012 Data-Tier App Framework  , 11.1.2902.0
+AzureTools.Notifications , 2.7.30611.1601
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 , 9.0.30729.4148
+Build Tools - x86 , 12.0.40629
+Prerequisites for SSDT  , 12.0.2000.8
+適用於 Visual Studio 2013 的 Windows Phone 8.1 工具 - 繁體中文 , 12.0.30723
+Memory Profiler , 12.0.40629
+Microsoft Visual Studio 2015 XAML Application Timeline , 14.0.25431
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24210 , 14.0.24210.0
+Dotfuscator and Analytics Community Edition , 5.5.4954.46574
+Microsoft SQL Server 2014 Management Objects  , 12.0.2000.8
+Microsoft Visual C++  x64-arm Cross Compilers - CHT Resources , 12.0.21005
+Behaviors SDK (Windows) for Visual Studio 2013 , 12.0.50429.0
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU) , 4.5.51209
+Microsoft Visual Studio 2013 XAML UI Designer - ENU , 12.0.40629
+Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1 , 14.0.41103.0
+Python 3.5.1 Development Libraries (32-bit) , 3.5.1150.0
+Microsoft .NET Framework 4.6 Targeting Pack , 4.6.00081
+Microsoft NuGet - Visual Studio 2015 , 3.4.4.1321
+Microsoft .NET Framework 4.6.1 SDK , 4.6.01055
+Visual Studio 2012 Verification SDK - ita , 12.0.30501
+Build Tools Language Resources - x86 , 12.0.40629
+Microsoft SQL Server 2012 Management Objects  , 11.1.3000.0
+Windows Phone 8.1 Tools for Visual Studio Professionald 2013 - ENU , 12.0.30723
+Microsoft Visual C++ 2012 Core Libraries , 11.0.51106
+Visual C++ IDE Base Package , 14.0.25431
+Microsoft Visual C++  x64-arm Cross Compilers , 12.0.21005
+Visual Studio 2012 驗證 SDK - cht , 12.0.30501
+Microsoft.VisualStudio.Office365 , 1.6.2.0
+Intel(R) Wireless Bluetooth(R) , 17.1.1527.1534
+Visual Studio 2012 Verification SDK - chs , 12.0.30501
+LocalESPCui for en-us , 8.59.29989
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 , 11.0.61030.0
+Visual C++ MSBuild Base Package , 14.0.25420
+Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - x86 , 14.0.25420
+Windows Software Development Kit for Windows Store Apps , 8.100.26936
+Blend for Visual Studio SDK for .NET 4.5 , 3.0.40218.0
+Visual C++ IDE Debugger Resource Package , 14.0.23107
+Microsoft .NET Framework 4.5 SDK - 繁體中文語言套件 , 4.5.50710
+Microsoft Visual Studio 2015 Windows Diagnostic Tools , 14.0.25431
+Windows Espc Package , 14.0.23107
+Microsoft VisualStudio JavaScript Language Service , 14.0.25527
+PreEmptive Analytics Visual Studio Components , 1.2.5134.1
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2015 , 14.0.25123
+Windows Phone SDK 8.0 Assemblies , 11.0.60610
+Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU , 4.1.41102.0
+Microsoft SQL Server Data Tools Build Utilities - CHT (12.0.30919.1) , 12.0.30919.1
+Microsoft .NET Framework 4.6.1 Developer Pack , 4.6.1055
+TypeScript Power Tool , 1.8.34.0
+WCF Data Services 5.6.0 Runtime , 5.6.61587.0
+Microsoft Visual Studio 2013 XAML UI 設計工具 - 繁體中文 , 12.0.40629
+Microsoft Help Viewer 2.2 , 2.2.25420
+Microsoft C++ REST SDK for Visual Studio 2013 , 1.0
+Microsoft SQL Server 2014 T-SQL Language Service  , 12.0.2000.8
+LocalESPCui for zh-tw Dev12 , 8.100.25984
+Microsoft Visual Studio 2013 Team Explorer 語言套件 - 繁體中文 , 12.0.21005
+Windows Phone 8.1 Tools for Visual Studio 2015 - ENU , 14.0.25420
+LocalESPC Dev12 , 8.100.25984
+Microsoft Visual Studio 2013 Team Explorer Language Pack - ENU , 12.0.21005
+Java Auto Updater , 2.8.111.14
+Microsoft Visual Studio 2015 Profiling Tools , 14.0.25123
+Microsoft .NET Framework 4.5 SDK , 4.5.50710
+Intel® Security Assist , 1.0.0.532
+Microsoft Visual C++ 2012 Compilers - CHT Resources , 11.0.60610
+Blend for Visual Studio 2013 CHT resources , 12.0.41002.1
+Microsoft SQL Server Data Tools - enu (14.0.60519.0) , 14.0.60519.0
+Python 3.5.1 pip Bootstrap (32-bit) , 3.5.1150.0
+Microsoft Visual Studio 2013 診斷工具 - 繁體中文 , 12.0.31101
+Visual C++ Compiler/Tools X86 Base Resource Package , 14.0.23026
+Microsoft Build Tools Language Resources 14.0 (x86) , 14.0.25420
+Visual C++ MSBuild ARM Package , 14.0.25420
+Microsoft Visual Studio 2013 Shell (Minimum) , 12.0.21005
+Microsoft Visual C++ 2013 Microsoft Foundation Class Libraries , 12.0.21005
+Microsoft Azure Mobile Services Tools for Visual Studio - v1.4 , 1.4.30611.1601
+Microsoft .NET Framework 4.6.1 目標套件 (繁體中文) , 4.6.01055
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote , 8.100.26936
+Microsoft .NET Framework 4.5 Multi-Targeting Pack , 4.5.50710
+Apple Software Update , 2.2.0.150
+Windows Phone 8.1 SDK - ARM , 8.1.15116
+Microsoft Visual C++  x64-x86 Cross Compilers - CHT Resources , 12.0.21005
+Microsoft Visual C++ 2012 32bit Compilers - CHT Resources , 11.0.60610
+Behaviors SDK (Windows Phone) for Visual Studio 2013 , 12.0.50716.0
+Microsoft Visual C++ 2013 Compilers - CHT Resources , 12.0.21005
+Visual C++ MSBuild Base Resource Package , 14.0.23107
+Realtek Card Reader , 6.3.9600.31213
+Microsoft Visual Studio Community 2015 - ENU , 14.0.23107
+Microsoft Advertising SDK for Windows Phone - ENU , 6.2.960.0
+WCF RIA Services V1.0 SP2 , 4.1.62812.0
+Windows Phone 8.1 SDK - Desktop , 8.1.15116
+Dotfuscator and Analytics Community Edition 5.22.0 , 5.22.0.3788
+Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015 , 14.1.11107.0
+Microsoft Visual C++ 2012 x86-x64 Compilers , 11.0.60610
+Google Update Helper , 1.3.32.7
+LocalESPC , 8.59.29989
+Visual F# 3.1 VS , 12.0.21005
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2013 - ENU , 4.1.21001.0
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU , 4.1.41102.0
+Python 3.5.1 Standard Library (32-bit) , 3.5.1150.0
+Microsoft LightSwitch for Visual Studio 2015 v5.0 ToolsRes - ENU , 14.0.23025
+Microsoft LightSwitch for Visual Studio 2013 v4.0 ToolsRes - CHT , 12.0.21005
+Microsoft SQL Server Data Tools Build Utilities - enu (12.0.30919.1) , 12.0.30919.1
+Microsoft Visual C++ 2013 x86-x64 Compilers , 12.0.21005
+Microsoft Visual Studio 2015 SDK - ENU , 14.0.23107
+Microsoft Visual Studio 2013 Shell (最少) 資源 , 12.0.21005
+Microsoft Visual Studio Community 2013 with Update 5 , 12.0.40629
+Roslyn Language Services - x86 , 14.0.25431
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215 , 14.0.24215
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack , 4.5.50932
+Microsoft Advertising SDK for Windows 8.1 - ENU , 8.1.30809.0
+Microsoft Advertising SDK for Windows Phone 8.1 XAML - ENU , 8.1.40427.0
+Microsoft Build Tools 14.0 (x86) , 14.0.25420
+Microsoft Visual C++ 2013 32bit Compilers - ENU Resources , 12.0.21005
+Microsoft .NET Framework 4.6.1 SDK (繁體中文) , 4.6.01055
+Microsoft ASP.NET MVC 4 Runtime - CHT , 4.0.20716.0
+Microsoft Visual Studio 2013 Preparation , 12.0.40629
+Microsoft Report Viewer Add-On for Visual Studio 2013 , 11.1.3442.2
+Python 3.5.1 Core Interpreter (32-bit) , 3.5.1150.0
+Microsoft Visual Studio Connected Services , 14.0.25420
+Microsoft Visual Studio 2013 Profiling Tools , 12.0.30723
+Microsoft Visual C++ 2012 x86 Debug Runtime - 11.0.60610 , 11.0.60610
+Python 3.5.1 Documentation (32-bit) , 3.5.1150.0
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2013 - CHT , 5.2.30612.0
+Intel® PROSet/Wireless Software , 18.12.0
+Microsoft Visual Studio Community 2015 with Updates , 14.0.25420.1
+Microsoft Visual Studio Services Hub , 1.0.25420.01
+Visual Studio 2015 Update 3 (KB3022398) , 14.0.25420
+Team Explorer for Microsoft Visual Studio 2015 Update 3.1 , 14.102.25619
+MSI Social Media Collection , 1.14.2251
+Visual Studio Extensions for Windows Library for JavaScript , 2.1.30723.00
+Visual C++ Compiler/Tools X86 Base Package , 14.0.24210
+SUPER CHARGER , 1.2.024
+VS Update core components , 12.0.40629
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 , 12.0.21005.1
+Microsoft Visual Studio 2015 Shell (Minimum) Resources , 14.0.23107
+ Tools for .Net 3.5 - CHT Lang Pack , 3.11.50727
+Visual C++ IDE Core Package , 14.0.25431
+Microsoft Visual Studio 2013 XAML UI Designer , 12.0.40629
+Microsoft Visual C++ 2005 Redistributable , 8.0.59193
+Microsoft Visual C++ 2013 Core Libraries , 12.0.21005
+Project and Item Templates for Visual Studio Community 2015 - ENU , 14.0.23107
+Application Insights Tools for Visual Studio 2013 , 2.5
+Update for Microsoft Visual Studio 2015 (KB3165756) , 14.0.25431
+Microsoft Silverlight , 5.1.20513.0
+Azure AD Authentication Connected Service , 14.0.25420
+Kit SDK de vérification de Visual Studio 2012 - fra , 12.0.30501
+Microsoft Visual Studio 2015 Preparation , 14.0.23107
+Microsoft .NET Framework 4.6.1 Targeting Pack , 4.6.01055
+Microsoft Visual Studio 2013 Diagnostic Tools - x86 , 12.0.31101
+Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU , 14.0.25420
+Microsoft SQL Server 2016 T-SQL Language Service  , 13.0.14500.10
+Visual Studio Graphics Analyzer , 14.0.25420
+Visual C++ MSBuild X86 Package , 14.0.25420
+Microsoft Visual C++ 2012 Compilers For Windows Phone - ENU Resources , 11.0.60610
+Microsoft .NET Framework 4.6.1 Targeting Pack (ENU) , 4.6.01055
+Microsoft Azure Storage Connected Service , 14.0.25420
+Visual F# 3.1 SDK Language Pack - CHT , 12.0.21005
+Microsoft Office , 15.0.4693.1005
+SDK de comprobación de Visual Studio 2012 - esn , 12.0.30501
+Python 3.5.1 Utility Scripts (32-bit) , 3.5.1150.0
+Python 3.5.1 Executables (32-bit) , 3.5.1150.0
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610 , 11.0.60610.1
+Microsoft Visual Studio 2013 Add-in for Windows Phone , 12.0.40629
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2013 - CHT , 4.1.21001.0
+Microsoft Visual C++  x64-x86 Cross Compilers - ENU Resources , 12.0.21005
+Microsoft Visual C++  x64 Native Compilers - CHT Resources , 12.0.21005
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps , 4.5.21005
+Пакет Visual Studio 2012 Verification SDK - rus , 12.0.30501
+Microsoft ASP.NET MVC 4 - Visual Studio 2013 - ENU , 4.1.21001.0
+Windows Software Development Kit , 8.100.26936
+Microsoft Visual Studio 2013 Shell (Minimum) Resources , 12.0.21005
+Microsoft .NET Framework 4.6.1 Developer Pack (CHT) , 4.6.1055
+Windows Runtime Intellisense Content - zh-tw , 8.100.25984
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 , 9.0.30729
+Microsoft Expression Blend SDK for .NET 4 , 2.0.20525.0
+Microsoft Visual Studio Professional 2013 , 12.0.21005
+Appium , 1.4.13.1
+Test Tools for Microsoft Visual Studio 2015 , 14.0.23107
+Blend for Visual Studio 2013 ENU resources , 12.0.41002.1
+Visual Studio 2012-Verifizierungs-SDK - deu , 12.0.30501
+Microsoft Azure Mobile Services SDK V2.0 , 2.0.20908.0
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610 , 11.0.60610.1
+Windows Software Development Kit DirectX x86 Remote , 8.100.25984
+Microsoft Visual C++ 2013 Extended Libraries , 12.0.21005
+Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU) , 4.5.21005
+Microsoft Visual Studio 2015 Update 3.1 Team Explorer Language Pack - ENU , 14.102.25619
+Windows Phone 8.1 Tools for Visual Studio 2013 - ENU , 12.0.30723
+Microsoft Visual C++  x86 Libraries , 12.0.21005
+Visual Studio 2012 Verification SDK , 14.0.25420
+Visual C++ IDE Base Resource Package , 14.0.25420
+Microsoft SQL Server System CLR Types , 10.50.1600.1
+Microsoft Visual Studio 2015 Update 3 Performance Debugger Web Views , 14.0.25420
+Microsoft Visual C++ 2012 Compilers , 11.0.60610
+Microsoft Visual C++  ARM Libraries , 12.0.21005
+Advanced PDF Password Recovery , 5.06.113.2041
+vs_update3notification , 14.0.25431
+Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU , 14.0.25420
+適用於 Windows Phone 的 Microsoft Visual Studio 2013 增益集 - 繁體中文語言套件 , 12.0.30723
+Microsoft Visual Studio 2015 XAML Designer - ENU , 14.0.25420
+Adobe Refresh Manager , 1.8.0
+Adobe Acrobat Reader DC - Chinese Traditional , 15.020.20042
+Microsoft SQL Server Data Tools - enu (12.0.41012.0) , 12.0.41012.0
+Microsoft .NET Framework 4.5.1 多目標套件 (繁體中文) , 4.5.50932
+Microsoft Visual Studio 2013 Shell (Minimum) Interop Assemblies , 12.0.21005
+Windows Phone 8.1 Tools for Visual Studio Professional 2015 - ENU , 14.0.23107
+Microsoft Portable Library Multi-Targeting Pack Language Pack - enu , 14.0.25420.01
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 , 11.0.61030
+LocalESPCui for en-us Dev12 , 8.100.25984
+Visual Studio 2013 的 Microsoft Report Viewer 附加元件 , 11.1.3442.2
+Microsoft Visual C++  x64-arm Cross Compilers - ENU Resources , 12.0.21005
+Microsoft ASP.NET Web Pages 2 Runtime , 2.0.20716.0
+Microsoft Agents for Visual Studio 2015 Preview - ENU , 14.0.23102
+Microsoft .NET Framework 4.6 SDK , 4.6.00081
+Microsoft Visual Studio 2013 Devenv , 12.0.21005
+Microsoft .NET Framework 4.5.1 SDK (繁體中文) , 4.5.51641
+TypeScript Tools for Microsoft Visual Studio 2015 , 1.8.36.0
+Microsoft Azure Shared Components for Visual Studio 2013 - v1.4 , 1.4.30416.1601
+Microsoft Blend for Visual Studio 2015 - ENU , 14.0.25420
+Microsoft Visual C++  x64 Native Compilers - ENU Resources , 12.0.21005
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215 , 14.0.24215
+Microsoft Portable Library Multi-Targeting Pack Language Pack - cht , 12.0.30501.00
+Gtk# for .Net 2.12.26 , 2.12.26
+Visual C++ IDE Common Package , 14.0.25420
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 , 11.0.61030
+WCF Data Services Tools for Microsoft Visual Studio 2013 , 5.6.61587.0
+Windows Phone 8.1 SDK - x86 , 8.1.15116
+Microsoft Visual C++  x64-x86 Cross Compilers , 12.0.21005
+Microsoft ASP.NET and Web Tools 2013.5 - Visual Studio 2013 , 12.5.60612.0
+Microsoft Visual Studio 2013 Devenv Resources , 12.0.21005
+Python 3.5.1 Tcl/Tk Support (32-bit) , 3.5.1150.0
+Microsoft Visual Studio 2015 XAML Application Timeline - ENU , 14.0.25420
+Visual Studio 2012 Verification SDK - jpn , 12.0.30501
+Microsoft Visual Studio 2013 Add-in for Windows Phone - ENU Language Pack , 12.0.30723
+Visual C++ IDE Professional Core Package , 14.0.25420
+適用於 Visual Studio Professional 2013 的 Windows Phone 8.1 工具 - 繁體中文 , 12.0.30723
+PreEmptive Analytics Client zh-Hant Language Pack , 1.2.3197.1
+Visual C++ IDE Common Resource Package , 14.0.23107
+Windows Phone 8.1 Tools for Visual Studio Professional 2013 , 12.0.30723
+Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24215 , 14.0.24215
+Team Explorer for Microsoft Visual Studio 2013 , 12.0.21005
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU , 5.2.40314.0
+Dotfuscator and Analytics Community Edition 語言套件 , 5.5.4954.46574
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 , 12.0.21005.1
+Microsoft Agents for Visual Studio 2015 Preview , 14.0.23102
+適用於 Windows 市集應用程式的 Microsoft .NET Framework 4.5.1 RC 多目標套件 (繁體中文) , 4.5.21005
+Microsoft .NET Framework 4 Multi-Targeting Pack , 4.0.30319
+Update for  (KB2504637) , 1
+Apple 應用程式支援 (32 位元) , 5.2
+Microsoft Visual Studio 2015 Language Pack - ENU , 14.0.23107.10
+Vagrant , 1.8.7
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU) , 4.5.50932
+Microsoft Visual Studio 2015 Add-in for Windows Phone - ENU Language Pack , 14.0.23107
+Microsoft Visual C++ 2012 32bit Compilers - ENU Resources , 11.0.60610
+Entity Framework 6.1.3 Tools  for Visual Studio 2013 , 12.0.40302.0
+Windows 10 升級小幫手 , 1.4.9200.17329
+Microsoft Visual Studio 2015 Tools for Unity , 2.2.0.0
+Microsoft Blend for Visual Studio 2015 , 14.0.25420
+Microsoft C++ Azure Mobile SDK for Visual Studio 2013 , 1.0
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215 , 14.0.24215.1
+Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2013 - ENU , 5.2.30612.0
+Microsoft Visual Studio 2015 XAML Designer , 14.0.25431
+Microsoft Visual Studio Professional 2013 - 繁體中文 , 12.0.21005
+Microsoft Visual C++ 2013 Compilers , 12.0.21005
+WCF Data Services 5.6.4 Runtime , 5.6.62175.4
+Boot Configure , 20.015.08113
+Microsoft Visual Studio Community 2015 , 14.0.23107
+Microsoft Visual C++  x64 Native Compilers , 12.0.21005
+Visual Studio 2012 유효성 검사 SDK - kor , 12.0.30501
+Microsoft 說明檢視器 2.1 語言套件 - CHT , 2.1.21005
+Microsoft .NET Core 5.0 SDK , 1.0.23902
+Windows Azure Tools for LightSwitch for Visual Studio 2013 - $(var.OOBPublishVersion) (繁體中文) , 2.1.10909.1601
+Microsoft Silverlight 5 SDK , 5.0.61118.0
+Microsoft ASP.NET MVC 4 - Visual Studio 2013 - CHT , 4.1.21001.0
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215 , 14.0.24215.1
+Microsoft Visual Studio 2015 Test Tools Language Pack - ENU , 14.0.23107
+Microsoft Visual C++ 2013 x86 Debug Runtime - 12.0.21005 , 12.0.21005
+Microsoft Visual C++ 2013 Compilers - ENU Resources , 12.0.21005
+Microsoft Visual Studio Professional 2013 - ENU , 12.0.21005
+Visual Studio 語言套件的 Microsoft Azure 行動服務工具 - 1.4 版 , 1.4.30408.1601
+Microsoft ASP.NET MVC 4 Runtime , 4.0.20716.0
+Blend for Visual Studio 2013 , 12.0.41002.1
+Microsoft Advertising Service Extension for Visual Studio , 12.0.40402.0
+Visual C++ MSBuild X64 Package , 14.0.25420
+Microsoft Visual Studio 2013 Devenv 資源 , 12.0.21005
+Microsoft Azure Shared Components for Visual Studio 2015 - v1.8 , 1.8.40521.1
+Microsoft Visual Studio Community 2013 , 12.0.40629
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 , 10.0.40219
+Intel(R) Processor Graphics , 10.18.15.4256
+Windows Phone 8.1 Tools for Visual Studio 2013 , 12.0.40629
+Realtek High Definition Audio Driver , 6.0.1.7576
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24210 , 14.0.24210.0
+Windows App Certification Kit x64 , 8.100.26795
+Visual C++ IDE Debugger Package , 14.0.25431
+Active Directory Authentication Library for SQL Server (x86) , 13.0.1601.5
+Microsoft Advertising SDK for Windows Phone 8.1 XAML - CHT , 8.1.40427.0
+Microsoft Azure Mobile Services SDK , 1.0.20908.0
+Microsoft Azure Shared Components for Visual Studio 2013 語言套件 (繁體中文) - 1.4 版 , 1.4.30416.1601
+Microsoft ASP.NET and Web Tools 2013.5 - Visual Studio 2013 - cht , 12.5.60612.0
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 , 12.0.21005
+Python 3.5.1 Test Suite (32-bit) , 3.5.1150.0
+Microsoft Visual Studio 2015 Devenv , 14.0.23107
+Windows Espc Resource Package , 14.0.23107
+Skype(TM) 7.18 , 7.18.112
+Microsoft Visual Studio 2015 XAML Visual Diagnostics , 14.0.25431
+Visual F# 3.1 VS Language Pack - CHT , 12.0.21005
+Microsoft Visual Studio 2013 準備 , 12.0.21005
+
+-------------
+OS Activation
+-------------
+
+名稱: Windows(R), Core edition
+描述: Windows(R) Operating System, OEM_DM channel
+部分產品金鑰: 2GYK4
+授權狀態: 已取得授權
+
+

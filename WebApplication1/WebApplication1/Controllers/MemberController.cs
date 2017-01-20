@@ -4,86 +4,58 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+
+
 namespace WebApplication1.Controllers
 {
     public class MemberController : Controller
     {
-        private string title;
-        public string Tilte
-        {
-            get
-            {
-
-                return title;
-            }
-            set
-            {
-                if (value.Length > 50)
-                    this.title = value.Substring(0, 50);
-                this.title = value;
-            }
-        }
-        public int Age { get; set; }
-
-
-
-
-        public MemberController()
-        {
-
-
-        }
-        public MemberController(string id):this()
-        {
-            var t = this.title;
-        }
-
-
         // GET: Member
-        public ActionResult Index(string id)
+        public ActionResult Index()
         {
-            var items = new List<string>();
-            items.Add("1");
-
-            var itemWhere= new List<string>();
-            for (int i = 0; i < items.Count; i++)
-            {
-                var item = items[i];
-                if (item == "1")
-                    itemWhere.Add(item);
-            }
-
-            itemWhere = items.Where(x => x == "1").ToList();
-
-            
-
-
-
-
-
-
-
-            return View();
+            Service.DatabaseServiceMember db = new Service.DatabaseServiceMember();
+            var list = db.LoadAllMember();
+            return View(list);
         }
+
+        [HttpGet]
         public ActionResult Create()
         {
-           // var ctrl = new MemberController();
-            
-           // ctrl.Tilte = "123";
-           // var t = ctrl.Tilte;
+            return View();
+        }
+        [HttpPost]
+        public RedirectToRouteResult Create(Models.Member newMember)
+        {
+            Service.DatabaseServiceMember db = new Service.DatabaseServiceMember();
+            //newMember.ID = Guid.NewGuid().ToString();
+            db.CreateMember(newMember);
+            return RedirectToAction("Index");
+        }
 
-            return View();
-        }
-        public ActionResult Edit()
+        [HttpGet]
+        public ActionResult Update(string id)
         {
-            return View();
+            Service.DatabaseServiceMember db = new Service.DatabaseServiceMember();
+            var model = db.GetMemberByID(id);
+            return View(model);
         }
-        public ActionResult Download()
+        [HttpPost]
+        public RedirectToRouteResult Update(Models.Member newMember)
         {
-            string filename = "D:\\1014\\105-1軟體工程\\分組名單.txt";
-            return File(filename, "application/pdf");
-           // return View();
-            //return this.File()
+            Service.DatabaseServiceMember db = new Service.DatabaseServiceMember();
+            db.UpdateMember(newMember);
+            return RedirectToAction("Index");
         }
+
+        public ActionResult Delete(string id)
+        {
+            Service.DatabaseServiceMember db = new Service.DatabaseServiceMember();
+            db.DeleteMember(id);
+            return RedirectToAction("Index");
+        }
+
+
+
+
     }
 }
